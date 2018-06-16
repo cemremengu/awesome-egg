@@ -75,6 +75,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-weapp-sdk](https://github.com/seasonstar/egg-weapp-sdk) - Egg的微信小程序登录会话管理SDK
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
 - [egg-zookeeper](https://github.com/eggjs/egg-zookeeper) - zookeeper plugin for egg
+- [egg-neo4j](https://github.com/cemremengu/egg-neo4j) - Neo4j plugin for egg framework
 
 ## Applications
 
