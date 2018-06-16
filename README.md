@@ -58,6 +58,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - grpc plugin for egg
 - [egg-leancloud](https://github.com/eggjs/egg-leancloud) - leancloud plugin for Egg.js
 - [egg-loopback](https://github.com/bqxu/egg-loopback) - Loopback plugin for egg (nosql for mysql,mongoo,redis,Oracle,PostgreSQL..)
+- [egg-neo4j](https://github.com/cemremengu/egg-neo4j) - Neo4j plugin for egg framework
 - [egg-mongoose](https://github.com/eggjs/egg-mongoose) - mongoose plugin for egg
 - [egg-mongo-native](https://github.com/brickyang/egg-mongo-native) - The native MongoDB driver for Egg.js
 - [egg-oss](https://github.com/eggjs/egg-oss) - aliyun oss plugin for egg
